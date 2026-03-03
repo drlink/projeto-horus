@@ -1,5 +1,8 @@
 # projeto-horus
 Repositorio para centralizar a documentação do projeto de cyber lab da faculdade impacta  
+1 semestre de 2026 
+Cronograma
+|
 
 ## 1 - Orientações para configurar o repositório.
 
