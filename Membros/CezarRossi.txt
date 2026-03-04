@@ -1,0 +1,3 @@
+nome: Cezar Rossi 
+ra:2200446
+email faculdade:cezar.rossi@aluno.impacta.edu.br
